@@ -3,12 +3,19 @@
 ### 임세현입니다 !
 클라우드 지식을 갖춘 풀스택 개발자, 나아가 데브옵스 엔지니어가 되어보고 싶네요 ㅎ
 
-### 좌우명
-"그래도? 빠샤!"
+
+### About Me
+학교. KAU
+전공. Software
+출생. 2000.12.05, Incheon
+좌우명 : "그래도? 빠샤!"
+
+
 
 ## 📞 Contact 📞
 - ![Naver](https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white) [dlatpgus1205@naver.com](mailto:dlatpgus1205@naver.com)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) [@sehyeon1205](https://www.instagram.com/sehyeon1205)
+
   
 ### Once I've used...
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
