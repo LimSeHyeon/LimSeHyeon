@@ -5,15 +5,8 @@
 "그래도? 빠샤!"
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/sehyeon1205">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+- ![Naver](https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) [dlatpgus1205@naver.com](mailto:dlatpgus1205@naver.com)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) [@sehyeon1205](https://www.instagram.com/sehyeon1205)
   
 ### Once I've used...
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
