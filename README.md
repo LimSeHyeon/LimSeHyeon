@@ -5,7 +5,7 @@
 "그래도? 빠샤!"
 
 ## 📞 Contact 📞
-- ![Naver](https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) [dlatpgus1205@naver.com](mailto:dlatpgus1205@naver.com)
+- ![Naver](https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white) [dlatpgus1205@naver.com](mailto:dlatpgus1205@naver.com)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) [@sehyeon1205](https://www.instagram.com/sehyeon1205)
   
 ### Once I've used...
