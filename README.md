@@ -1,5 +1,10 @@
-### Hi there 👋
-hihi
+### Hello World 👋
+임세현입니다 !
+### 좌우명
+"그래도? 빠샤!"
+
+### Languages
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **LimSeHyeon/LimSehyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
