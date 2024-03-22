@@ -5,7 +5,7 @@
 
 
 ### About Me
-학교. KAU
+학교. KAU\n
 전공. Software
 출생. 2000.12.05, Incheon
 좌우명 : "그래도? 빠샤!"
