@@ -11,9 +11,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LimSeHyeon&show_icons=true&theme=ambient_gradient" width="400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatpgus1205">
 <br>
 ### 🔖 History
- 2023.03 ~ 2023.06 **항GPT** 교내 정보 제공 챗봇(백엔드 개발)  
- 2023.12 ~ 진행 중 **안뜰** 가족 중심 커뮤니티 서비스(백엔드 팀장, 백엔드 개발)
-
+ 2023.03 ~ 2023.06 **항GPT**  
+ 교내 정보 제공 챗봇(백엔드 개발)  
+<br>
+ 2023.12 ~ 진행 중 **안뜰**  
+ 가족 중심 커뮤니티 서비스(백엔드 팀장, 백엔드 개발)
+<br>
 ### 📚 Once I've used...
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
