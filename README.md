@@ -12,7 +12,7 @@
 <br>
 <br>
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=LimSeHyeon&theme=grassland" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=LimSeHyeon&theme=grassland&userFetchType=all" width="600px" />
 </a>
 ### 🔖 History
  2023.03 ~ 2023.06 **항GPT**  
