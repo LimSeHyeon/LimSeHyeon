@@ -10,6 +10,10 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=LimSeHyeon&show_icons=true&theme=ambient_gradient" width="400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=dlatpgus1205">
 <br>
+<br>
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=LimSeHyeon&theme=grassland" width="600px" />
+</a>
 ### 🔖 History
  2023.03 ~ 2023.06 **항GPT**  
  교내 정보 제공 챗봇(백엔드 개발)  
